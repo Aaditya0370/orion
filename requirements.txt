@@ -1,6 +1,0 @@
-PySide6>=6.5
-opencv-python>=4.7
-numpy>=1.23
-pyserial>=3.5
-# Optional YOLO backend (install separately with a compatible local model):
-# ultralytics>=8.0

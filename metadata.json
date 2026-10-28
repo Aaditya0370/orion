@@ -1,0 +1,6 @@
+{
+  "name": "Orion Fireguard",
+  "description": "Offline engineering demonstrator for simulated-target vision, calibrated planar room mapping, and dry pan-tilt servos.",
+  "permissions": [],
+  "capabilities": []
+}
